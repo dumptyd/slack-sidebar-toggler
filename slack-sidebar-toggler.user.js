@@ -12,7 +12,7 @@
   'use strict';
 
   const combinator = {
-    on: function(passedCombination, callback) {
+    on(passedCombination, callback) {
       const combination = passedCombination.map(c => c.toLowerCase());
       let buffer = [];
       let skipNextKeyUp = false;
