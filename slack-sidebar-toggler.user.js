@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Slack Sidebar Toggler
-// @description  Adds the ability to toggle the main sidebar on Slack Web using keyboard shortcut (ctrl + alt + B)
+// @description  Adds the ability to toggle the main sidebar on Slack Web using a keyboard shortcut (ctrl + alt + B)
 // @author       dumptyd (http://github.com/dumptyd)
 // @version      1.0.0
 // @namespace    http://github.com/dumptyd

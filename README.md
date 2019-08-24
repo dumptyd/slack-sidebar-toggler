@@ -1,6 +1,6 @@
 # Slack Sidebar Toggler
 
-A userscript to add the ability to toggle the main sidebar on Slack Web using keyboard shortcut.
+A userscript to add the ability to toggle the main sidebar on Slack Web using a keyboard shortcut.
 
 ## Installation
 
@@ -15,7 +15,7 @@ A userscript to add the ability to toggle the main sidebar on Slack Web using ke
 ## Usage
 
 1. Open any workspace on Slack Web.
-2. Once the page is fully loaded, press <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>B</kbd> to toggle the sidebar.
+2. Once the page is fully loaded, press <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>B</kbd> to toggle the sidebar.
 
 ## License
 
