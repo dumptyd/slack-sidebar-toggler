@@ -22,7 +22,7 @@ A userscript to add the ability to toggle the main sidebar on Slack Web using a 
 #### 1.1.0 (May 31, 2020)
 Correctly collapse the sidebar on new Slack UI.
 
-#### 1.1.0 (Aug 24, 2019)
+#### 1.0.0 (Aug 24, 2019)
 Initial version.
 
 ## License
