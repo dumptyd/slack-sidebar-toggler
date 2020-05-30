@@ -2,7 +2,7 @@
 // @name         Slack Sidebar Toggler
 // @description  Adds the ability to toggle the main sidebar on Slack Web using a keyboard shortcut (ctrl + alt + B)
 // @author       dumptyd (http://github.com/dumptyd)
-// @version      1.0.0
+// @version      1.1.0
 // @namespace    http://github.com/dumptyd
 // @match        https://app.slack.com/client/*
 // @grant        GM_addStyle
@@ -55,7 +55,7 @@
 
   const style = {
     leftSidebarCollapsedClassName: 'SST-left-sidebar-collapsed',
-    leftSidebarWidth: '220px',
+    leftSidebarWidth: '260px',
     gridSelector: '.p-workspace'
   };
   GM_addStyle(`
