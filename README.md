@@ -17,6 +17,14 @@ A userscript to add the ability to toggle the main sidebar on Slack Web using a 
 1. Open any workspace on Slack Web.
 2. Once the page is fully loaded, press <kbd>ctrl</kbd> + <kbd>alt</kbd> + <kbd>B</kbd> to toggle the sidebar.
 
+## Changelog
+
+#### 1.1.0 (May 31, 2020)
+Correctly collapse the sidebar on new Slack UI.
+
+#### 1.1.0 (Aug 24, 2019)
+Initial version.
+
 ## License
 
 Code released under MIT license.
